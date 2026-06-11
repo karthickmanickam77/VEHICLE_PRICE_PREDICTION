@@ -1,0 +1,3 @@
+Currently developing an AI-powered Vehicle Affordability and Financial Risk Analysis platform using Machine Learning, FastAPI, Docker, and Flutter. 
+The project includes three ML models: Vehicle Price Prediction (Regression), Potential Savings Prediction based on spending habits (Regression), and EMI Risk Prediction (Classification). 
+Built preprocessing pipelines with feature engineering, encoding, scaling, missing value handling, and model evaluation using Scikit-learn. Planning to containerize the backend using Docker, expose ML prediction endpoints through FastAPI, and integrate the system into a Flutter application with interactive UI and 3D vehicle visualization.
